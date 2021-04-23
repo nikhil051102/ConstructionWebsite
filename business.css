@@ -1,0 +1,98 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.logo img{
+  border :3px solid rgba(255, 187, 0, 0.897);
+ border-radius: 50%;
+
+}
+.A{
+  font-style: normal;
+  text-align: start;
+  display: flex;
+  font-size: 65;
+  font-weight: bolder;
+  color: rgb(250, 192, 46);
+  font-family: 'Ubuntu', sans-serif;
+  
+}
+.navbar{
+  display: flex;
+  padding: 20;
+  background-color:black;
+}
+.B{
+  margin: 0 0 0;
+  width: 100%;
+  color: rgb(250, 192,46);
+  background-color: black;
+  font-size: 35;
+  font-weight: lighter;
+  font-family: 'Ubuntu', sans-serif;
+}
+body{
+  background-image: url(".png");
+  background-color: (0,0,0);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-blend-mode: darken;
+}
+.main{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  font-family: 'Ubuntu', sans-serif;
+max-width: 50%;
+margin-left: 40px;
+height: 70%;
+}
+.firsthalf{
+width: 80%;
+display: flex;
+justify-content: center;
+flex-direction: column;
+
+}
+.secondhalf{
+width: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  
+}
+
+.big{
+font-size: 50px;
+text-align: center;
+padding-bottom: 25px;
+color:rgb(250, 192, 46);
+font-family: 'Ubuntu', sans-serif;}
+.short{
+font-size: 25px;
+text-align: center;
+padding-bottom: 25px;
+color:rgb(250,192, 46);
+font-family: 'Ubuntu', sans-serif;
+}
+body{
+  background-image: url(https://source.unsplash.com/1600x900/?building,construction
+  );
+  background-blend-mode:darken ;
+}
+
+#Image1
+{  
+
+height: 250px;
+    padding-left: 679px;
+    padding-top: 0px;
+    
+    
+
+}
+#Image2
+{
+padding-left: 30px;
+
+}
